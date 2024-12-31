@@ -34,9 +34,7 @@ You are invited to explore my GitHub portfolio to get a glimpse into my technica
  <br />
   
   - [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
-  - [Setting Up Vulnerable VMs in Azure](https://github.com/AmiliaSalva/Azure-VM-Prep/blob/main/README.md)
-  - [Cloud SOC Project Resources](https://github.com/AmiliaSalva/Cloud-SOC-Project-Resources)
-  - [Active Directory VM Lab](https://github.com/AmiliaSalva/ActiveDirectoryLab)
+  - 
     
  ---
   
