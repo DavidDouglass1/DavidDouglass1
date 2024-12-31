@@ -33,7 +33,7 @@ You are invited to explore my GitHub portfolio to get a glimpse into my technica
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
-  - [Creating a Live SOC / Honey Net in Azure](https://github.com/AmiliaSalva/Azure-Honey-Net-SOC)
+  - [Creating a Live SOC / Honey Net in Azure](https://github.com/DavidDouglass1/Azure-Honeynet-SOC)
   - 
     
  ---
