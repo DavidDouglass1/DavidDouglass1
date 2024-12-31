@@ -70,7 +70,7 @@ You are invited to explore my GitHub portfolio to get a glimpse into my technica
  
 <h2> 📲 connect with me:</h2>
   
-[<img align="left" alt="Amilia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin](images.linked.png)
 
 [linkedin]: https://www.linkedin.com/in/david-douglass-67876441/
 
