@@ -20,9 +20,6 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
  <br />
 
 
-
-
-
 <h2>👨🏻‍💻 🌎 🔐 Cloud Cyber Security Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
