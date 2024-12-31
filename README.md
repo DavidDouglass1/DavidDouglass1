@@ -34,7 +34,7 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
  <br />
   
   - [Creating a Live SOC / Honey Net in Microsoft Azure](https://github.com/DavidDouglass1/Azure-Honeynet-SOC)
-  - [Setting up vulnerable VM's in Microsoft Azure]
+  - [Setting up vulnerable VM's in Microsoft Azure](https://github.com/DavidDouglass1/Azure-VM-Setup)
     
  ---
   
