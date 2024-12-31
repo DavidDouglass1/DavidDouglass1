@@ -66,14 +66,6 @@ You are invited to explore my GitHub portfolio to get a glimpse into my technica
   ## KQL Simple Queries
    - [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
  <br />
- 
- 
-<h2> 📲 connect with me:</h2>
-  
-[linkedin](images.linked.png)
-
-[linkedin] https://www.linkedin.com/in/david-douglass-67876441/
-
 
 
 
