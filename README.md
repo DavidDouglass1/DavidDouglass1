@@ -20,13 +20,6 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
  <br />
 
 
-<h2>  🖥️ Projects  :</h2>
-
-
-
-<div>
-
-
 
 
 
