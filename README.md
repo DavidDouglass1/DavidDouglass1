@@ -1,2 +1,1 @@
-# DavidDouglass
-My front page profile
+![Banner](images/BannerG.png)
