@@ -1,1 +1,1 @@
-![Banner](images/BannerG.png)
+![Banner](images/banner.png)
