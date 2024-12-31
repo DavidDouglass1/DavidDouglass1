@@ -67,6 +67,7 @@ You are invited to explore my GitHub portfolio to get a glimpse into my technica
    - [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
  <br />
 
+\<h2>👨🏻‍💻 🌎 🔐 Certifications 👨🏻‍💻 🌎 🔐</h2>
 
 
 
