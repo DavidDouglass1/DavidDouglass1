@@ -59,6 +59,9 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
 
 \<h2>👨🏻‍💻 🌎 🔐 Certifications 👨🏻‍💻 🌎 🔐</h2>
 
+ - [Google Cybersecurity Certificate](https://coursera.org/share/4723617822b7b5a39c46cceb2e4cd21b)
+ - [LevelD Cybersecurity Operations](https://app.kajabi.com/certificates/68831fa0)
+
 
 
 
