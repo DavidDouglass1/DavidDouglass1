@@ -72,7 +72,7 @@ You are invited to explore my GitHub portfolio to get a glimpse into my technica
   
 [linkedin](images.linked.png)
 
-[linkedin]: https://www.linkedin.com/in/david-douglass-67876441/
+[linkedin] https://www.linkedin.com/in/david-douglass-67876441/
 
 
 
