@@ -8,7 +8,7 @@
 
 I've had the pleasure of working hard to increase my cybersecurity and cloud security engineering skills.  Most times it doesn't feel like work because I loved every moment of it, even the frustrating times when I had to troubleshoot issues in my projects.
 
-You are invited to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
+Please explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
 
 
 
