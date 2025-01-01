@@ -25,7 +25,6 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
   
   - [Creating a Live SOC / Honey Net in Microsoft Azure](https://github.com/DavidDouglass1/Azure-Honeynet-SOC)
   - [Setting up vulnerable VM's in Microsoft Azure](https://github.com/DavidDouglass1/Azure-VM-Setup)
-   - [Enhancing Security with KQL: Understanding Successful User Logins and Logon Types](https://github.com/AmiliaSalva/KQL-Queries)
  <br />
 
 ---
