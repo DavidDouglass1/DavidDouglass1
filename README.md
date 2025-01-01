@@ -25,6 +25,7 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
   
   - [Creating a Live SOC / Honey Net in Microsoft Azure](https://github.com/DavidDouglass1/Azure-Honeynet-SOC)
   - [Setting up vulnerable VM's in Microsoft Azure](https://github.com/DavidDouglass1/Azure-VM-Setup)
+  - [Applying Filters to SQL Queries](https://github.com/DavidDouglass1/Cyber-Security/blob/main/Applying%20Filters%20to%20SQL%20Queries.md)
  <br />
 
 ---
