@@ -20,7 +20,7 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
  <br />
 
 
-<h2>👨🏻‍💻 🌎 🔐 Cloud Cyber Security Projects 👨🏻‍💻 🌎 🔐</h2>
+<h2>👨🏻‍💻 🌎 🔐 Cloud Cybersecurity Projects 👨🏻‍💻 🌎 🔐</h2>
  <br />
   
   - [Creating a Live SOC / Honey Net in Microsoft Azure](https://github.com/DavidDouglass1/Azure-Honeynet-SOC)
