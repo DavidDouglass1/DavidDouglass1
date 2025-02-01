@@ -27,7 +27,7 @@ Please explore my GitHub portfolio to get a glimpse into my technical capabiliti
 <br/>
 
  - [Microsoft Certified: Azure Security Engineer Associate AZ-500] - In progress
- - [CompTIA Security+ Certification] - In progress
+ - [CompTIA Security+ Certification](https://www.credly.com/badges/6834e0cf-881e-4978-92f2-1cd08710fd8c/public_url)
  - [Google Cybersecurity Professional Certificate](https://coursera.org/share/4723617822b7b5a39c46cceb2e4cd21b)
  - [Leveld Cybersecurity Masterclass: SOC Analyst ](https://app.kajabi.com/certificates/68831fa0)
  - [Microsoft Certified: Azure Fundamentals: AZ-900] - In progress 
